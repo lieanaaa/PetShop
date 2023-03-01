@@ -1,0 +1,25 @@
+body{
+    background-color:  #fbe2b9 ;
+}
+div.content{
+    justify-content: center;
+  }
+div.container {
+    padding: 2em;
+    margin-top: 80px;
+    width: 25em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 1px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    background: #d5af72;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+}
+div a{
+    color:  white;
+    text-align: center;
+}
+label{
+    color: white;
+}
+
